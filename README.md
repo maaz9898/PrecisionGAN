@@ -155,12 +155,13 @@ Install the required packages using `pip install -r requirements.txt`.
 If you use this project in your research, please cite it using the following:
 
 ```bibtex
-@misc{precisiongan,
-  author = {Maaz Ahmed, Min-Beom Kim, Kang-Sun Choi},
-  title = {PrecisionGAN: Enhanced Image-to-Image Translation for Preserving Structural Integrity in Skeletonized Images},
-  year = {2024},
-  url = {https://github.com/maaz9898/PrecisionGAN}
-  doi = {TBA}
+@article{ahmed2024precisiongan,
+  title={PrecisionGAN: enhanced image-to-image translation for preserving structural integrity in skeletonized images},
+  author={Ahmed, Maaz and Kim, Min-Beom and Choi, Kang-Sun},
+  journal={International Journal on Document Analysis and Recognition (IJDAR)},
+  pages={1--15},
+  year={2024},
+  publisher={Springer}
 }
 ```
 
